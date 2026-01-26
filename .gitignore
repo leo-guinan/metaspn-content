@@ -1,0 +1,8 @@
+# MetaSPN Content Repository
+# Exclude sensitive data
+*.env
+*.key
+*.pem
+
+# Exclude large embeddings if needed
+# embeddings/**/*.npy
