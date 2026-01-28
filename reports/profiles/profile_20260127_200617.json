@@ -4,7 +4,7 @@
   "name": "leo_guinan",
   "avatar_url": null,
   "repo_commit": "6e7639fdd03572dc23bf6ed13dfca27b40f32931",
-  "last_computed": "2026-01-27T21:00:52.835678",
+  "last_computed": "2026-01-27T20:06:17.844843",
   "platforms": [
     {
       "platform": "blog",
@@ -28,7 +28,7 @@
   "lifecycle": {
     "phase": "legend",
     "phase_progress": 1.0,
-    "days_in_phase": 1,
+    "days_in_phase": 0,
     "phase_entered": "2026-01-27T01:28:03+00:00",
     "activities_in_phase": 3230,
     "next_phase": null,
@@ -37,16 +37,16 @@
   "metrics": {
     "creator": {
       "quality_score": 0.5756823226072607,
-      "game_alignment": 0.2978245467502917,
+      "game_alignment": 0.24046434494195779,
       "impact_factor": 0.7223519736842106,
       "calibration": 0.5,
       "game_signature": {
-        "G1": 0.053053185702121884,
-        "G2": 0.23467620679871176,
-        "G3": 0.18369942862821517,
-        "G4": 0.381157880083625,
-        "G5": 0.0507073484352829,
-        "G6": 0.09670595035204321
+        "G1": 0.04954394693200665,
+        "G2": 0.18428689883913865,
+        "G3": 0.3237976782752911,
+        "G4": 0.06550580431177443,
+        "G5": 0.27839966832503965,
+        "G6": 0.09846600331674957
       },
       "trajectory": {
         "direction": "ascending",
@@ -65,12 +65,12 @@
       "discernment": 0.5,
       "development": 1.0,
       "consumption_games": {
-        "G1": 0.04303972816340731,
-        "G2": 0.3040156663319736,
-        "G3": 0.1831884849252769,
-        "G4": 0.328190329493889,
-        "G5": 0.04241032756933645,
-        "G6": 0.0991554635161167
+        "G1": 0.0035238176105969756,
+        "G2": 0.0030143500042456054,
+        "G3": 0.012736690158784328,
+        "G4": 0.42625456398062317,
+        "G5": 0.2766833658826608,
+        "G6": 0.2777872123630891
       },
       "total_consumed": 3206,
       "hours_consumed": 2484.6741666666667
@@ -111,7 +111,7 @@
         "description": "Complete your first activity",
         "icon": "\ud83d\udc63",
         "category": "activity",
-        "earned_at": "2026-01-27T21:00:52.835648",
+        "earned_at": "2026-01-27T20:06:17.844818",
         "rarity": "common"
       },
       {
@@ -120,7 +120,7 @@
         "description": "Complete 10 activities",
         "icon": "\ud83c\udf31",
         "category": "activity",
-        "earned_at": "2026-01-27T21:00:52.835653",
+        "earned_at": "2026-01-27T20:06:17.844824",
         "rarity": "common"
       },
       {
@@ -129,7 +129,7 @@
         "description": "Complete 50 activities",
         "icon": "\ud83d\ude80",
         "category": "activity",
-        "earned_at": "2026-01-27T21:00:52.835655",
+        "earned_at": "2026-01-27T20:06:17.844826",
         "rarity": "uncommon"
       },
       {
@@ -138,7 +138,7 @@
         "description": "Complete 100 activities",
         "icon": "\ud83d\udcaf",
         "category": "activity",
-        "earned_at": "2026-01-27T21:00:52.835656",
+        "earned_at": "2026-01-27T20:06:17.844827",
         "rarity": "rare"
       },
       {
@@ -147,7 +147,7 @@
         "description": "Complete 500 activities",
         "icon": "\u2b50",
         "category": "activity",
-        "earned_at": "2026-01-27T21:00:52.835657",
+        "earned_at": "2026-01-27T20:06:17.844828",
         "rarity": "epic"
       },
       {
@@ -156,7 +156,7 @@
         "description": "Create your first piece of content",
         "icon": "\u270d\ufe0f",
         "category": "activity",
-        "earned_at": "2026-01-27T21:00:52.835662",
+        "earned_at": "2026-01-27T20:06:17.844832",
         "rarity": "common"
       },
       {
@@ -165,7 +165,7 @@
         "description": "Maintain a consistency score above 0.70",
         "icon": "\ud83d\udcc5",
         "category": "quality",
-        "earned_at": "2026-01-27T21:00:52.835663",
+        "earned_at": "2026-01-27T20:06:17.844833",
         "rarity": "rare"
       },
       {
@@ -174,7 +174,7 @@
         "description": "Maintain a 7-day activity streak",
         "icon": "\ud83d\udd25",
         "category": "streak",
-        "earned_at": "2026-01-27T21:00:52.835664",
+        "earned_at": "2026-01-27T20:06:17.844834",
         "rarity": "uncommon"
       },
       {
@@ -183,7 +183,7 @@
         "description": "Advance to developing phase",
         "icon": "\ud83d\udcc8",
         "category": "milestone",
-        "earned_at": "2026-01-27T21:00:52.835665",
+        "earned_at": "2026-01-27T20:06:17.844835",
         "rarity": "common"
       },
       {
@@ -192,7 +192,7 @@
         "description": "Reach established phase",
         "icon": "\ud83c\udfdb\ufe0f",
         "category": "milestone",
-        "earned_at": "2026-01-27T21:00:52.835667",
+        "earned_at": "2026-01-27T20:06:17.844837",
         "rarity": "uncommon"
       },
       {
@@ -201,7 +201,7 @@
         "description": "Reach veteran phase",
         "icon": "\ud83c\udf96\ufe0f",
         "category": "milestone",
-        "earned_at": "2026-01-27T21:00:52.835668",
+        "earned_at": "2026-01-27T20:06:17.844837",
         "rarity": "rare"
       },
       {
@@ -210,7 +210,7 @@
         "description": "Reach legendary status",
         "icon": "\ud83d\udc51",
         "category": "milestone",
-        "earned_at": "2026-01-27T21:00:52.835668",
+        "earned_at": "2026-01-27T20:06:17.844838",
         "rarity": "legendary"
       }
     ],
