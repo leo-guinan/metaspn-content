@@ -1,0 +1,220 @@
+{
+  "user_id": "leo_guinan",
+  "handle": "@leo_guinan",
+  "name": "leo_guinan",
+  "avatar_url": null,
+  "repo_commit": "5fe1988a5bf28a995d04392e3f548f314e9212cb",
+  "last_computed": "2026-01-27T19:44:17.610710",
+  "platforms": [
+    {
+      "platform": "blog",
+      "role": "creator",
+      "joined_at": "2024-11-06T17:28:25+00:00",
+      "last_active": "2026-01-26T20:17:29.825614+00:00",
+      "activity_count": 280,
+      "create_count": 280,
+      "consume_count": 0
+    },
+    {
+      "platform": "podcast",
+      "role": "hybrid",
+      "joined_at": "2026-01-27T01:28:03+00:00",
+      "last_active": "2026-01-27T20:42:05+00:00",
+      "activity_count": 3230,
+      "create_count": 24,
+      "consume_count": 3206
+    }
+  ],
+  "lifecycle": {
+    "phase": "legend",
+    "phase_progress": 1.0,
+    "days_in_phase": 0,
+    "phase_entered": "2026-01-27T01:28:03+00:00",
+    "activities_in_phase": 3230,
+    "next_phase": null,
+    "activities_to_next": 0
+  },
+  "metrics": {
+    "creator": {
+      "quality_score": 0.5756823226072607,
+      "game_alignment": 0.24046434494195779,
+      "impact_factor": 0.7223519736842106,
+      "calibration": 0.5,
+      "game_signature": {
+        "G1": 0.04954394693200665,
+        "G2": 0.18428689883913865,
+        "G3": 0.3237976782752911,
+        "G4": 0.06550580431177443,
+        "G5": 0.27839966832503965,
+        "G6": 0.09846600331674957
+      },
+      "trajectory": {
+        "direction": "ascending",
+        "slope": 1.376196985853643,
+        "window_days": 30,
+        "start_date": "2025-12-28T20:41:37+00:00",
+        "end_date": "2026-01-27T20:41:37+00:00",
+        "data_points": 236
+      },
+      "total_outputs": 304,
+      "consistency_score": 0.954015401540154
+    },
+    "consumer": {
+      "execution_rate": 1.0,
+      "integration_skill": 0.25,
+      "discernment": 0.5,
+      "development": 1.0,
+      "consumption_games": {
+        "G1": 0.0035238176105969756,
+        "G2": 0.0030143500042456054,
+        "G3": 0.012736690158784328,
+        "G4": 0.42625456398062317,
+        "G5": 0.2766833658826608,
+        "G6": 0.2777872123630891
+      },
+      "total_consumed": 3206,
+      "hours_consumed": 2484.6741666666667
+    },
+    "development": {
+      "total_activities": 3510,
+      "active_days": 55,
+      "streak_current": 2,
+      "streak_longest": 7,
+      "first_activity": "2024-11-06T17:28:25+00:00",
+      "last_activity": "2026-01-27T20:42:05+00:00",
+      "platforms_active": 2,
+      "achievements": [
+        "first_activity",
+        "ten_activities",
+        "fifty_activities",
+        "hundred_activities",
+        "five_hundred_activities",
+        "first_creation",
+        "consistent_creator",
+        "week_streak",
+        "phase_developing",
+        "phase_established",
+        "phase_veteran",
+        "phase_legend"
+      ]
+    }
+  },
+  "cards": {
+    "level": 137,
+    "xp": 160373,
+    "xp_to_next": 1740,
+    "rarity": "legendary",
+    "badges": [
+      {
+        "badge_id": "first_activity",
+        "name": "First Steps",
+        "description": "Complete your first activity",
+        "icon": "\ud83d\udc63",
+        "category": "activity",
+        "earned_at": "2026-01-27T19:44:17.610688",
+        "rarity": "common"
+      },
+      {
+        "badge_id": "ten_activities",
+        "name": "Getting Started",
+        "description": "Complete 10 activities",
+        "icon": "\ud83c\udf31",
+        "category": "activity",
+        "earned_at": "2026-01-27T19:44:17.610692",
+        "rarity": "common"
+      },
+      {
+        "badge_id": "fifty_activities",
+        "name": "Building Momentum",
+        "description": "Complete 50 activities",
+        "icon": "\ud83d\ude80",
+        "category": "activity",
+        "earned_at": "2026-01-27T19:44:17.610694",
+        "rarity": "uncommon"
+      },
+      {
+        "badge_id": "hundred_activities",
+        "name": "Century",
+        "description": "Complete 100 activities",
+        "icon": "\ud83d\udcaf",
+        "category": "activity",
+        "earned_at": "2026-01-27T19:44:17.610694",
+        "rarity": "rare"
+      },
+      {
+        "badge_id": "five_hundred_activities",
+        "name": "Prolific",
+        "description": "Complete 500 activities",
+        "icon": "\u2b50",
+        "category": "activity",
+        "earned_at": "2026-01-27T19:44:17.610696",
+        "rarity": "epic"
+      },
+      {
+        "badge_id": "first_creation",
+        "name": "Creator",
+        "description": "Create your first piece of content",
+        "icon": "\u270d\ufe0f",
+        "category": "activity",
+        "earned_at": "2026-01-27T19:44:17.610700",
+        "rarity": "common"
+      },
+      {
+        "badge_id": "consistent_creator",
+        "name": "Consistency King",
+        "description": "Maintain a consistency score above 0.70",
+        "icon": "\ud83d\udcc5",
+        "category": "quality",
+        "earned_at": "2026-01-27T19:44:17.610701",
+        "rarity": "rare"
+      },
+      {
+        "badge_id": "week_streak",
+        "name": "Week Warrior",
+        "description": "Maintain a 7-day activity streak",
+        "icon": "\ud83d\udd25",
+        "category": "streak",
+        "earned_at": "2026-01-27T19:44:17.610702",
+        "rarity": "uncommon"
+      },
+      {
+        "badge_id": "phase_developing",
+        "name": "Beyond Rookie",
+        "description": "Advance to developing phase",
+        "icon": "\ud83d\udcc8",
+        "category": "milestone",
+        "earned_at": "2026-01-27T19:44:17.610703",
+        "rarity": "common"
+      },
+      {
+        "badge_id": "phase_established",
+        "name": "Established",
+        "description": "Reach established phase",
+        "icon": "\ud83c\udfdb\ufe0f",
+        "category": "milestone",
+        "earned_at": "2026-01-27T19:44:17.610704",
+        "rarity": "uncommon"
+      },
+      {
+        "badge_id": "phase_veteran",
+        "name": "Veteran",
+        "description": "Reach veteran phase",
+        "icon": "\ud83c\udf96\ufe0f",
+        "category": "milestone",
+        "earned_at": "2026-01-27T19:44:17.610705",
+        "rarity": "rare"
+      },
+      {
+        "badge_id": "phase_legend",
+        "name": "Legend",
+        "description": "Reach legendary status",
+        "icon": "\ud83d\udc51",
+        "category": "milestone",
+        "earned_at": "2026-01-27T19:44:17.610706",
+        "rarity": "legendary"
+      }
+    ],
+    "card_number": null,
+    "edition": "genesis"
+  }
+}
