@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "username": "leo_guinan",
   "author_id": "",
   "last_sync": "2026-01-28T16:24:44Z",
@@ -7,5 +7,6 @@
   "toolkit_version": "0.1.0",
   "stats": {
     "tweets_exported": 38880
-  }
+  },
+  "last_sync_utc": "2026-01-28T18:00:05.084Z"
 }
