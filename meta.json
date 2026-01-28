@@ -1,25 +1,11 @@
 {
-  "schema_version": "2.0.0",
-  "user_id": "leo_guinan",
-  "last_twitter_sync_utc": "2026-01-27T16:39:41.810Z",
-  "last_sync_utc": "2026-01-28T12:00:03.983Z"
-  "last_sync": "2026-01-28T16:03:27Z",
-  "export_config": {
-    "twitter": {
-      "embedding_version": "v1",
-      "classifier_version": "v1",
-      "manifold_version": "v1"
-    }
-  },
-  "stats": {
-    "twitter": {
-      "tweets_exported": 38880,
-      "events_exported": 38880
-    }
-  },
+  "schema_version": "1.0.0",
   "username": "leo_guinan",
   "author_id": "",
-  "sources": [
-    "community-archive-toolkit"
-  ]
+  "last_sync": "2026-01-28T16:24:44Z",
+  "source": "community-archive-toolkit",
+  "toolkit_version": "0.1.0",
+  "stats": {
+    "tweets_exported": 38880
+  }
 }
